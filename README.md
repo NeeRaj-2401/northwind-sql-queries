@@ -48,7 +48,7 @@ The queries in this repository cover a wide range of scenarios and aim to provid
 
 ## Schema
 
-<img src="/schema/schema.JPG" width="50%">
+<img src="/schema/schema.JPG" width="85%">
 
 ## Acknowledgments
 
